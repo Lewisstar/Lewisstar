@@ -11,9 +11,13 @@ The dataset used in this project is from a bank and contains various features re
 **Project Structure**
 
 data/: This directory contains the dataset used in the project.
+
 notebooks/: Jupyter notebooks for data cleaning, visualization, feature engineering, and model evaluation.
+
 results/: Results of the trained models and evaluation metrics.
+
 src/: Source code for data preprocessing, feature engineering, model training, and evaluation.
+
 README.md: This file providing an overview of the project.
 
 **Instructions**
@@ -28,10 +32,15 @@ Evaluate the results obtained and iterate on the model as necessary.
 **Dependencies**
 
 Python 3.x
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Scikit-learn
 
 **Results**
