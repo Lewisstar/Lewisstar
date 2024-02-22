@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**Lewisstar/Lewisstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 **Bank Dataset Classification Project**
 **Overview**
 This repository contains the code and results for a classification problem using a bank dataset. The aim of this machine learning task is to perform various steps including data cleaning, data visualization, feature engineering, model evaluation, and accuracy assessment.
